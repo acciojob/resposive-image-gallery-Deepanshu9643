@@ -6,7 +6,7 @@
     gap: 10px;
 }
 
-.gallery img{
+.gallery .image{
 	
 	max-width:25vw;
 	margin:10px;
